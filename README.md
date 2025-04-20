@@ -34,7 +34,7 @@ Este é um projeto de landing page estática desenvolvido para apresentar os pri
 - JavaScript
 - Layout responsivo com Flexbox
 
-###👩‍⚕️ Equipe fictícia apresentada
+### 👩‍⚕️ Equipe fictícia apresentada
 
 - **Dra. Ana Souza** - Clínica Geral  
 - **Dr. Carlos Lima** - Cardiologista  
