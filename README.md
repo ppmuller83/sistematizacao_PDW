@@ -17,7 +17,7 @@ RA: 72401544;
 Este é um projeto de landing page estática desenvolvido para apresentar os principais serviços e equipe da **Clínica Vida Saudável**. A página foi criada como parte de um projeto de reformulação das soluções tecnológicas da clínica, com o objetivo de melhorar a experiência dos pacientes.
 
 ### 🔗 Acesse o site
-🔗(https://ppmuller83.github.io/sistematizacao_PDW/)
+🔗https://ppmuller83.github.io/sistematizacao_PDW/
 
 ### 📋 Funcionalidades
 
