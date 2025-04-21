@@ -6,7 +6,7 @@
 RA: 72401544;
 
 ### :movie_camera: Links para o vídeo de apresentação:
-[https://youtu.be/Y-bejBm9cos](https://www.youtube.com/watch?v=ZTWTVd5Pka0)
+https://youtu.be/VwnaJ40Lezg
 
 ### Link para arquivo PDF:
 
