@@ -17,6 +17,7 @@ RA: 72401544;
 Projeto 01 - Uma landing page estática apresentando as principais informações da clínica, bem como seus principais serviços.
 
 Partes obrigatórias do site:
+
 -Título (nome da aba);
 -Imagens de produtos/serviços (mínimo 2 imagens);
 -Descrição do produtos/serviços;
